@@ -1,0 +1,7 @@
+# Transformation file
+# type(erode, dilate, opening, closing, gradient, tophat, blackhat),
+# iteration, kernel_x, kernel_y, [kernel elements]
+#erode, 1, 9, 9, 0, 0, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0
+#dilate, 1, 9, 9, 0, 0, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0
+closing, 1, 15, 15, 0, 0, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0
+#opening, 1, 15, 15, 0, 0, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0
