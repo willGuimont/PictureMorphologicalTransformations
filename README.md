@@ -1,10 +1,10 @@
 # PictureMorphologicalTransformations
 
 ## Before
-![alt text][before]
+![before][before]
 
 ## After
-![alt text][after]
+![after][after]
 
 [before]: https://github.com/willGuimont/PictureMorphologicalTransformations/blob/master/input/img.jpg?raw=true
 [after]: https://github.com/willGuimont/PictureMorphologicalTransformations/blob/master/output/1.jpg?raw=true
